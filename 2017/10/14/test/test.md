@@ -2,6 +2,7 @@
 title: test
 date: 2017-10-14 09:34:50
 tags: test
+categories: test
 ---
 
 # 测试页面
